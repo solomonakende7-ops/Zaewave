@@ -1,0 +1,13 @@
+{
+  "name": "ZaeWave",
+  "short_name": "ZaeWave",
+  "description": "AI music creation studio, song remaking, artist community and music distribution.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000014",
+  "theme_color": "#000014",
+  "icons": [
+    { "src": "/brand/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/brand/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
