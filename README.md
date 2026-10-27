@@ -33,4 +33,4 @@ pnpm test
 4. Once accounts and payments exist, update the Identity email links and the Paystack callback and webhook URLs to the new domain.
 
 ## Roadmap
-See [PLAN.md](PLAN.md): accounts and storage, Studio v2, real AI remakes, distribution partner, channels, Paystack payments, then the domain and launch.
+See [PLAN.md](PLAN.md): accounts and storage, Studio v2, real AI remakes, distribution partner, channels, Paystack payments, then the domain and launch. 
